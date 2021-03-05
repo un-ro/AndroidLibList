@@ -22,6 +22,7 @@ Instead browse my star tab, I create this repo.
 - [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 - [kpermissions](https://github.com/fondesa/kpermissions)
 - [Dexter](https://github.com/Karumi/Dexter)
+- [Klaxon](https://github.com/cbeust/klaxon)
 
 ### Framework 🔥
 
